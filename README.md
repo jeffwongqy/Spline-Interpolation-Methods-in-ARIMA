@@ -1,1 +1,1 @@
-# Spline-Interpolation-Methods-in-ARIMA
+# Spline Interpolation Methods in ARIMA
